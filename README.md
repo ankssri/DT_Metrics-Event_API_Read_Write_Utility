@@ -1,5 +1,6 @@
-# JSONAPI
+# API Utility 
 Python utlity to Read metric values from Dynatrace Cluster, parse JSON to read metric values, check values and create problem card in Dynatrace based in user input.
+This can customized for any other API
 
 Included files:
 1. python code
