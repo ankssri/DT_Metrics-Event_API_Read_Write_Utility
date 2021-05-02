@@ -1,0 +1,24 @@
+{
+  "eventType": "PERFORMANCE_EVENT",
+  "timeoutMinutes": 0,
+  "attachRules": {
+     
+    "tagRule": [
+      {
+        "meTypes": [
+          "HOST"
+        ],
+        "tags": [
+          {
+            "context": "CONTEXTLESS",
+            "key": "Hostname",
+            "value": "AppServer"
+          }
+        ]
+      }
+    ]
+  },
+  "source": "OpsControl",
+  "title": "Application Slow Higher than usual",
+  "description": "Response time of home page degrading. Check link to Trello case"
+}

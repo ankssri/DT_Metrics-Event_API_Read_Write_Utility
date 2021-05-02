@@ -1,0 +1,33 @@
+{
+    "totalCount": 1,
+    "nextPageKey": null,
+    "result": [
+        {
+            "metricId": "builtin:host.cpu.usage",
+            "data": [
+                {
+                    "dimensions": [
+                        "HOST-B01C7A95BDE4B11B"
+                    ],
+                    "dimensionMap": {
+                        "dt.entity.host": "HOST-B01C7A95BDE4B11B"
+                    },
+                    "timestamps": [
+                        1619751600000,
+                        1619762400000,
+                        1619773200000,
+                        1619784000000,
+                        1619794800000
+                    ],
+                    "values": [
+                        null,
+                        null,
+                        42.27708888485142,
+                        44.203625996907554,
+                        46.342393239339195
+                    ]
+                }
+            ]
+        }
+    ]
+}
