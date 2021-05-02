@@ -14,8 +14,8 @@ Utility functions:
 4. Check if any of the value is above defined threshold
 5. Read problem card JSON file to be sent as part of API request to 
 6. Create problem card in Dynatrace if value is above threshold (threshold input by user).
-#   Problem Card JSON template included
-# Note enable Trello and Slack integrations to send out notifications to corresponding teams
+- Problem Card JSON template included
+- Note enable Trello and Slack integrations to send out notifications to corresponding teams**
 
 What you will need
 1. python 3.6 or above installed
